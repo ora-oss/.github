@@ -1,0 +1,9 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>ora favicon</title>
+  <rect width="64" height="64" rx="14" fill="#20140E"/>
+  <g transform="translate(33,42) scale(0.5)">
+    <path d="M-40,20 L-30,-14 L-16,-22 L-26,12 Z" fill="#4C8A57"/>
+    <path d="M-10,12 L0,-26 L14,-34 L4,4 Z" fill="#9BA832"/>
+    <path d="M20,4 L32,-40 L46,-48 L34,-4 Z" fill="#F49B33"/>
+  </g>
+</svg>

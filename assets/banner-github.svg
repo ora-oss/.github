@@ -1,0 +1,16 @@
+<svg viewBox="0 0 1360 480" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Ownership. Responsibility. Ambition.</title>
+  <g transform="scale(2)">
+    <rect x="0" y="0" width="680" height="240" fill="#20140E"/>
+    <text x="44" y="78" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="-1" fill="#8FBF5A">Ownership.</text>
+    <text x="44" y="130" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="-1" fill="#F49B33">Responsibility.</text>
+    <text x="44" y="182" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="-1" fill="#E2552E">Ambition.</text>
+    <text x="46" y="212" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#C8A88E">Three values, one name. They shape every line of code ora ships in the open.</text>
+    <g transform="translate(548,150) scale(1.5)">
+      <g transform="translate(-44,22) scale(0.78)"><path d="M0,0 L10,-34 L28,-44 Z" fill="#2E5E40"/><path d="M28,-44 L24,-8 L0,0 Z" fill="#4C8A57"/></g>
+      <g transform="translate(-14,10) scale(1.02)"><path d="M0,0 L10,-34 L28,-44 Z" fill="#7E9243"/><path d="M28,-44 L24,-8 L0,0 Z" fill="#9BA832"/></g>
+      <g transform="translate(22,-6) scale(1.3)"><path d="M0,0 L10,-34 L28,-44 Z" fill="#D14338"/><path d="M28,-44 L24,-8 L0,0 Z" fill="#F49B33"/></g>
+      <path d="M62,-72 L70,-64 L62,-56 L54,-64 Z" fill="#FAD06B"/>
+    </g>
+  </g>
+</svg>
